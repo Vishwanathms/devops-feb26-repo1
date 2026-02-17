@@ -3,3 +3,5 @@ This is a test file
 3rd line added to the file locally
 4th line added to the local b1 
 5th line added to the local b2
+
+6th line added to the local b1 
